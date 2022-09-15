@@ -1,0 +1,7 @@
+.fullscreen {
+    height: 100vh;
+}
+.w-33 {
+  width: 33%;
+  min-width: 400px;
+}

@@ -1,0 +1,6 @@
+{
+  "short_name": "Social App",
+  "name": "Social media web app in Nodejs",
+  "start_url": ".",
+  "display": "standalone"
+}
